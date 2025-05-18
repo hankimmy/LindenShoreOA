@@ -1,0 +1,7 @@
+/CMakeCache.txt
+/cmake-build-debug
+/Makefile
+/LindenShoreOA
+.idea/
+*.o
+test*
